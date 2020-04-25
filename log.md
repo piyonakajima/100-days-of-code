@@ -116,5 +116,7 @@ https://designevo.com/jp/logo-maker/
 収入がどうとかそう言う話でなく、組織に依存せず自分で自走できるようになりたいと言うのが今考えている生き方。キャリアとかぼんやりしている。
 
 **リンク** 
+
 [I've joined the #100DaysOfCode Challenge](https://github.com/kallaway/100-days-of-code)
+
 [#100DaysOfCode の始め方とルールについて](https://qiita.com/akihanari/items/fc24d2faf88c8f768cdf)
