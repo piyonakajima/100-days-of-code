@@ -12,7 +12,7 @@
 - タイトルロゴを置く
 
 
-### Day3: ロゴを作ってのせる 
+## Day3: ロゴを作ってのせる 
 1.0H/total: 3.0H
 
 **Done**
@@ -25,7 +25,7 @@ https://designevo.com/jp/logo-maker/
 - バックエンド選定
 -いずれかのサーバにデプロイ
 
-### Day4: Express+mongoDB環境を構築
+## Day4: Express+mongoDB環境を構築
 0.5H/total: 3.5H
 
 **Done**
@@ -38,7 +38,7 @@ https://designevo.com/jp/logo-maker/
 - フロントエンドと結合
 
 
-### Day5: バックエンドとの結合
+## Day5: バックエンドとの結合
 0.5H/total 4.0H
 
 **Done**
@@ -50,7 +50,7 @@ https://designevo.com/jp/logo-maker/
 - 利用者の名前に日本語を登録できるようにする
 - backendとfrontendを１個のプロジェクトにする
 
-### Day6: 記事投稿部分の日本語化
+## Day6: 記事投稿部分の日本語化
 0.5H/total 4.5H
 
 今日は元気がないのでほんの数行だけ
@@ -63,7 +63,7 @@ https://designevo.com/jp/logo-maker/
 - 投稿後の見栄えの調整
 - 利用者の名前に日本語を登録する
 
-### Day7: 投稿後の記事の日本語化
+## Day7: 投稿後の記事の日本語化
 0.3H/ total 4.8H
 
 仕事一区切りついたので今日は若干おやすみで簡単なとこだけやりました。
@@ -76,7 +76,7 @@ https://designevo.com/jp/logo-maker/
 - チュートリアル選定し消化
 
 
-### Day8: 投稿後の記事にアーティスト名を表示させる
+## Day8: 投稿後の記事にアーティスト名を表示させる
 0.2H / total 5.0H
 
 今日は休みの日にしたので明日から頑張る・・・（やらなくなりそうな予感
@@ -86,7 +86,7 @@ https://designevo.com/jp/logo-maker/
 -  今作ってるプロジェクトの階層を整理
 -  FirebaseでOAuthのチュートリアルを探してやる
 
-### Day9: 早速サボる
+## Day9: 早速サボる
 2.0H/ total 7.0H
 
 二日サボりましたが再開
@@ -96,8 +96,7 @@ https://designevo.com/jp/logo-maker/
 **ToDo**
 - FirebaseでTwitter認証できるようにする
 
-
-### Day10: はじめてのFirebase Hosting
+## Day10: はじめてのFirebase Hosting
 1.5H/ total 8.5H
 
 **Done**
@@ -107,7 +106,7 @@ https://designevo.com/jp/logo-maker/
 **ToDo**
 - Day7までに作っていたアプリにメールアドレス認証機能をつける
 
-### 11日目: 2020年4月25日
+## 11日目: 2020年4月25日
 
 **今日の進捗**: 100DaysOfCodeのProjectをfork
 
