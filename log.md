@@ -1,10 +1,38 @@
 # 100 Days Of Code - 学習ログ
 
+## X日目: 2020年XX月XX日
+
+XXH/ total:XXH
+
+### 今日の進捗
+テンプレ
+
+### 思ったこと
+テンプレ
+
+### 参考URL
+テンプレ
+
+
+## 13日目: 2020年4月27日
+
+1.0H/ total:13.0H
+
+### 今日の進捗
+
+### 思ったこと
+
+### 参考URL
+https://qiita.com/rubytomato@github/items/78087a2c69389f642760
+
+### 今日の進捗
+
 ## 12日目: 2020年4月26日
 
 3.0H / total:12.0H
 
-**今日の進捗**:
+**今日の進捗**:１年が残り何分かを計算するだけのアプリを作った
+https://sol525600min.web.app/
 
 **思ったこと**:
 create-nuxt-app に失敗していた。
@@ -34,6 +62,7 @@ sudo rm -rf /Users/edapiyo/Library/Preferences/sao-nodejs/
 
 **リンク**
 https://github.com/nuxt/create-nuxt-app/issues/371
+[Vue.js 現在時刻の表示 ~時計~](https://qiita.com/ron-Qiita/items/17af311a506d08b7bf14)
 
 ## 11日目: 2020年4月25日
 
