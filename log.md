@@ -16,18 +16,18 @@ XXH/ total:XXH
 
 ## 13日目: 2020年4月27日
 
-1.0H/ total:13.0H
+2.5H/ total:14.5H
 
 ### 今日の進捗
+- FirebaseにGoogleでログイン＆Firestoreに登録参照を試す
 - 昨日の記録を記載
-- [Cloud Firestore with Vue.jsで簡単なメモアプリを実装する](https://qiita.com/rubytomato@github/items/78087a2c69389f642760)
-
 ### 思ったこと
 
 ### 参考URL
-https://qiita.com/rubytomato@github/items/78087a2c69389f642760
+- https://qiita.com/rubytomato@github/items/78087a2c69389f642760
+- [Cloud Firestore with Vue.jsで簡単なメモアプリを実装する](https://qiita.com/rubytomato@github/items/78087a2c69389f642760)
+- [Nuxt.js + Firebase Authentication + FireStoreでwebアプリケーションハンズオン](https://qiita.com/ririli/items/d0d3a6ae78c1b6e827fc)
 
-### 今日の進捗
 
 
 
