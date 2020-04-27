@@ -19,6 +19,8 @@ XXH/ total:XXH
 1.0H/ total:13.0H
 
 ### 今日の進捗
+- 昨日の記録を記載
+- [Cloud Firestore with Vue.jsで簡単なメモアプリを実装する](https://qiita.com/rubytomato@github/items/78087a2c69389f642760)
 
 ### 思ったこと
 
@@ -26,6 +28,9 @@ XXH/ total:XXH
 https://qiita.com/rubytomato@github/items/78087a2c69389f642760
 
 ### 今日の進捗
+
+
+
 
 ## 12日目: 2020年4月26日
 
