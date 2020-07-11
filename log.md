@@ -18,13 +18,20 @@ xxH/ total: 36.5H
 
 ### 今日の進捗
 - 新しいMacbookに環境作り直しする
+  - githubの設定 
+  - zshの設定　https://qiita.com/cielo1985/items/6d32e2ec7c74ee60dca7
 - TensorFlowをインストールする
+  - TensorFlow 1.xをインストールするためには、python 3.7が必要。pyenvを入れる必要がある。
+  　　https://qiita.com/ms-rock/items/72b8f1abc661c539bb09#231-pyenv%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB
+      https://www.kkaneko.jp/tools/win/tensorflow1.html
+
 
 ### 思ったこと
 2ヶ月空いてしまった。
+ctrl + shift + ¥`  でターミナルは飛び出す
 
 ### 参考URL
-
+https://qiita.com/cielo1985/items/6d32e2ec7c74ee60dca7
 
 ## 22日目 2020/5/17
 1.0H/ total: 36.5H
