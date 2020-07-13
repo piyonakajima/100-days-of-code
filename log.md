@@ -13,10 +13,25 @@ XXH/ total:XXH
 ### 参考URL
 テンプレ
 
-## 23日目　2020/7/11
-xxH/ total: 36.5H
+## 24日目: 2020年7月13日
+
+0.5H/ total:40.0H
 
 ### 今日の進捗
+  - TensorFlowの本、1章を実際に動かしてみる
+
+### 思ったこと
+  - JupyterNotebookショートカット覚えたい
+
+### 参考URL
+
+
+
+## 23日目　2020/7/11
+3.0H/ total: 39.5H
+
+### 今日の進捗
+- TensorFlowを勉強してみる（環境構築に時間がかかった）
 - 新しいMacbookに環境作り直しする
   - githubの設定 
   - zshの設定　https://qiita.com/cielo1985/items/6d32e2ec7c74ee60dca7
@@ -24,6 +39,10 @@ xxH/ total: 36.5H
   - TensorFlow 1.xをインストールするためには、python 3.7が必要。pyenvを入れる必要がある。
   　　https://qiita.com/ms-rock/items/72b8f1abc661c539bb09#231-pyenv%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB
       https://www.kkaneko.jp/tools/win/tensorflow1.html
+
+  - FireStickTVをインストールする
+    https://www.onion-za.jp/amazon-fire-tv-stick/#Fire_TV_StickMacBookiPhoneiPad
+
 
 
 ### 思ったこと
