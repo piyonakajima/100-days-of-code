@@ -18,7 +18,10 @@ XXH/ total:XXH
 0.5H/ total:40.0H
 
 ### 今日の進捗
-  - TensorFlowの本、1章を実際に動かしてみる
+  - TensorFlowの本、1章を実際に動かしてみる →　version1は古いらしい。
+  - こっちでやりなおそう
+  　https://fujitsu.udemy.com/course/data-science-and-machine-learning-with-python-hands-on/
+
 
 ### 思ったこと
   - JupyterNotebookショートカット覚えたい
