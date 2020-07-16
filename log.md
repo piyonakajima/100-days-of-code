@@ -13,6 +13,19 @@ XXH/ total:XXH
 ### 参考URL
 テンプレ
 
+## 25日目: 2020年7月16日
+
+1.0H/ total:41.0H
+
+### 今日の進捗
+AnacondaをいれてPythonを動かした
+
+### 思ったこと
+前書いたのに結構忘れている
+
+### 参考URL
+  　https://fujitsu.udemy.com/course/data-science-and-machine-learning-with-python-hands-on/
+
 ## 24日目: 2020年7月13日
 
 0.5H/ total:40.0H
