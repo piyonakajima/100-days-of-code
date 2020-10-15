@@ -13,6 +13,22 @@ XXH/ total:XXH
 ### 参考URL
 テンプレ
 
+
+## 26日目: 2020年10月15日
+
+1.0H/ total:42.0H
+
+### 今日の進捗
+SOFT SKILLSを読みながら自分の職務経歴をエンジニア視点で棚卸ししてやりたいことを明確化した
+https://github.com/piyonakajima/myDiary/blob/main/plantostudy.md
+
+### 思ったこと
+絞れば１週間ぐらいである程度やりたいことはできるかも
+別の作業早くきりのいいところまで終わらせて開発作業したい
+
+### 参考URL
+
+
 ## 25日目: 2020年7月16日
 
 1.0H/ total:41.0H
