@@ -21,6 +21,11 @@ XXH/ total:XXH
 Adobe XDで画面のイメージを描いてみた
 https://xd.adobe.com/view/a21f8a37-66c9-4209-84a6-c5ab1e51281b-f74c/
 
+Vuetifyチュートリアルを改めてやりなおし
+https://vuetifyjs.com/en/getting-started/installation/
+https://ajike.github.io/vuetify-tutorial/
+
+
 ### 思ったこと
 それなりに時間かかりそう
 CreateとReadだけにまず照準おいて「動いた動いた」といえる糞アプリを作りたい
