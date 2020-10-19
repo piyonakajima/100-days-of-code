@@ -24,7 +24,7 @@ https://xd.adobe.com/view/a21f8a37-66c9-4209-84a6-c5ab1e51281b-f74c/
 Vuetifyチュートリアルを改めてやりなおし
 https://vuetifyjs.com/en/getting-started/installation/
 https://ajike.github.io/vuetify-tutorial/
-
+https://github.com/piyonakajima/vuetifysandbox
 
 ### 思ったこと
 それなりに時間かかりそう
